@@ -35,18 +35,9 @@ AI Book Summarizer is a modern Flutter application designed to provide quick, in
 ```
 
 ## Screenshots
-<div align="center">
-  <table style="width:100%">
-    <tr>
-      <td width="33%"><img src="https://via.placeholder.com/300x600?text=Splash+Screen" alt="Splash Screen"/><br/><b>Splash Screen</b></td>
-      <td width="33%"><img src="https://via.placeholder.com/300x600?text=Onboarding+1" alt="Onboarding 1"/><br/><b>Onboarding 1</b></td>
-      <td width="33%"><img src="https://via.placeholder.com/300x600?text=Premium+Screen" alt="Premium Screen"/><br/><b>Premium Screen</b></td>
-    </tr>
-  </table>
-</div>
-
-> [!TIP]
-> Replace the placeholder URLs above with your actual screenshot URLs or local paths like `assets/screenshots/splash.png`.
+📸 Screenshot:
+![App Screenshot](https://github.com/Ugarba202/ai_book_summarizer/blob/0ead81c388c9c247de1aa0c83fbbdcd9afcf3278/Screenshot%20From%202026-02-28%2000-00-58.png)
+live link https://ai-book-summarizer.globeapp.dev/
 
 ## Installation
 
